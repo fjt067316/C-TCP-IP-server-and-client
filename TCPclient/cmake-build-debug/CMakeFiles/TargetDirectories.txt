@@ -1,0 +1,3 @@
+C:/Users/Josh/TCPclient/cmake-build-debug/CMakeFiles/TCPclient.dir
+C:/Users/Josh/TCPclient/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Josh/TCPclient/cmake-build-debug/CMakeFiles/rebuild_cache.dir
